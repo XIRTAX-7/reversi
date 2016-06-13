@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dproj,C:\Documents and Settings\rogozin\Мои документы\RAD Studio\Projects\Project1.dproj=G:\12\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\Documents and Settings\rogozin\Мои документы\RAD Studio\Projects\Unit1.pas=G:\12\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\Documents and Settings\rogozin\Мои документы\RAD Studio\Projects\Unit1.dfm=G:\12\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
